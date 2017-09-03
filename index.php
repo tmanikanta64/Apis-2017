@@ -5,6 +5,7 @@
         
         // build a function that validates data
         function validateFormData( $formData ) {
+            // sanitization of code
             $formData = trim( stripslashes( htmlspecialchars( $formData ) ) );
             return $formData;
         }
