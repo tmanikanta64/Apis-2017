@@ -1,0 +1,3 @@
+print 1 to 20 using 3 loops
+print sum of squares on 1 to 1000
+print your name 20 times
